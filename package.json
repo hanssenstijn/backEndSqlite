@@ -1,0 +1,23 @@
+{
+  "name": "backendsqlite",
+  "version": "1.0.0",
+  "description": "SQLite Node.js\r In this section, you will learn how to interact with SQLite databases from a Node.js application using the sqlite3 module. After the tutorial, you will know how to open a database connection and perform common database operations such as select.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanssenstijn/backEndSqlite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanssenstijn/backEndSqlite/issues"
+  },
+  "homepage": "https://github.com/hanssenstijn/backEndSqlite#readme",
+  "dependencies": {
+    "sqlite3": "^4.2.0"
+  }
+}
